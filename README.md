@@ -64,8 +64,7 @@ Install the dependencies using:
 
 ## 🚀 Try It Yourself
 You can run this notebook on Kaggle or locally.
----
 
 **✨ Designed & Built By
-Selya1722
+Selya1722-Amaya Jayasekara
 UI/UX Designer · ML Enthusiast**
